@@ -1,0 +1,1 @@
+# Create a script that takes in a base 10 number and returns its base 2 equivalent
